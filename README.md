@@ -236,5 +236,3 @@ The project uses a modular Makefile structure. Run `make help` to see all availa
 | `make prune-uv` | Remove unused uv cache entries |
 | `make clean-uv-cache` | Remove all uv cache entries |
 
-## 3. Contributing
-Check the [CONTRIBUTING.md](CONTRIBUTING.md) file for more information.
